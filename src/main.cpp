@@ -1,7 +1,7 @@
-#define BLYNK_TEMPLATE_ID "TMPL6qC4Pjh4V"                         //ใส่ ID Template ของตัว Blynk
-#define BLYNK_TEMPLATE_NAME "PlantWateringSystem"                 //ใส่ ชื่อ Template ของตัว Blynk
-#define BLYNK_AUTH_TOKEN "XHnIcshFVFYLs8-BSZaP8cZ6oWD6i1Zw"       //ใส่ Token Template ของตัว Blynk
-#define LINE_TOKEN "YIoN4WqvjKeoNOlVu3YZRNjUJts1nnOdujRTj5DJme4"  //ใส่ Token ของตัวการแจ้งเตือนของ LINE
+#define BLYNK_TEMPLATE_ID ""                         //ใส่ ID Template ของตัว Blynk
+#define BLYNK_TEMPLATE_NAME ""                 //ใส่ ชื่อ Template ของตัว Blynk
+#define BLYNK_AUTH_TOKEN ""       //ใส่ Token Template ของตัว Blynk
+#define LINE_TOKEN ""  //ใส่ Token ของตัวการแจ้งเตือนของ LINE
 
 //ใช้งาน Library ต่างๆที่จำเป็นต่องานนี้
 #include <WiFiManager.h>           //Library การจัดการ Wifi
